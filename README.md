@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about creating technology to elevate p
 
 🌱 Currently learning and building with: Typescripts, React Hooks 
 
-✨ A fun fact: My Vietnamese name is BacAi. My mom took it from the Bible (it means 'humanitarinism') even though our family is buddhist. 🤔 :woman_shrugging:
+✨ A fun fact: My Vietnamese name is BacAi. My mom took it from the Bible (it means 'humanitarianism') even though our family is buddhist. 🤔 :woman_shrugging:
 
 <!--
 **dongb909/dongb909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
