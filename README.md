@@ -4,12 +4,7 @@ I'm a software engineer who is passionate about creating technology to elevate p
 
 🌱 Currently learning and building with: Typescripts, React Hooks 
 
-### Connect with me: 
-[<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg' />][linkedin]
-
 ✨ A fun fact: My Vietnamese name is BacAi. My mom took it from the Bible (it means 'humanitarinism') even though our family is buddhist. 🤔 :woman_shrugging:
-
-[linkedin]: https://linkedin.com/in/dongb909
 
 <!--
 **dongb909/dongb909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
