@@ -1,6 +1,6 @@
 ### Hi, I'm Rachel 👋 :woman_technologist:
 
-I'm a software engineer who is passionate about creating technology to elevate people and that brings good into far reaching communities. My main tech stack includes, Javascript, ReactJS, Express, PostgreSQL, and mongoDB. I work well both, autonomously or in a team, as I'm an continuous learner, I don't shy from questions and love passing on the knowledge to others. 
+I'm a software engineer who is passionate about creating technology to elevate people and bring good into far reaching communities. My main tech stack includes, Node.js, Javascript, ReactJS, Express, PostgreSQL, and mongoDB. I work well both, autonomously or in a team. I'm also a continuous learner, I don't shy from questions and I love passing on the knowledge to others. 
 
 🌱 Currently learning and building with: Typescripts, React Hooks 
 
